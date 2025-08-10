@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Profile Banner (Optional) -->
+![Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png)
 
-<!--
-**AlyyeenAhmed/AlyyeenAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I’m Alyyeen Ahmed  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a **Software Engineering student at FAST**, currently gearing up for my **Final Year Project (FYP)**.  
+I’m deeply passionate about **Artificial Intelligence** 🤖 and **Software Development** 💻 — always eager to explore new technologies and build impactful solutions.  
+
+Beyond the code, I’m a **pasta-loving foodie** 🍝, a **thrill-seeker** 🎢, and a **travel enthusiast** ✈️ who believes adventures fuel creativity.  
+💡 _“Passion + dedication = unstoppable results.”_  
+
+---
+
+## 📊 GitHub Stats  
+![Alyyeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyyeenAhmed&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyyeenAhmed&layout=compact&theme=radical)  
+
+---
+
+## 🛠 Skills & Tools  
+- **Languages:** Python 🐍 | Java ☕ | C++ ⚙️  
+- **Frameworks & Libraries:** FastAPI 🚀 | React ⚛️ |Flutter 
+- **Databases:** MySQL 🗄 | PostgreSQL 🐘  
+- **Other:** Git 🧑‍💻 | Docker 🐳  
+
+---
+
+## 🍕 Coding + Comfort Food  
+_On a mission to create impactful software and discover the best food in town. Will debug for pizza._  
+
+---
+
+## 😋 Flavors of Code  
+_Every project is like a recipe — start with the right ingredients, stir with passion, and serve with style._  
+
+---
+
+## ✈️ Code, Cuisine & Curiosity  
+_I explore the world through code and cuisine — from debugging bugs to tasting exotic street food, always chasing the next adventure._  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/AlyyeenAhmed)  
