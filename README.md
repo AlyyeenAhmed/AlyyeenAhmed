@@ -38,6 +38,6 @@ _I explore the world through code and cuisine — from debugging bugs to tasting
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alyyeen-ahmed-54103a280?trk=contact-info)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](alyyeenahmed123@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/AlyyeenAhmed)  
