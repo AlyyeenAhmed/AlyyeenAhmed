@@ -1,7 +1,3 @@
-<!-- Profile Banner (Optional) -->
-![Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png)
-
-
 # 👋 Hi, I’m Alyyeen Ahmed  
 
 I’m a **Software Engineering student at FAST**, currently gearing up for my **Final Year Project (FYP)**.  
