@@ -16,7 +16,7 @@ Beyond the code, I’m a **pasta-loving foodie** 🍝, a **thrill-seeker** 🎢,
 
 ## 🛠 Skills & Tools  
 - **Languages:** Python 🐍 | Java ☕ | C++ ⚙️  
-- **Frameworks & Libraries:** FastAPI 🚀 | React ⚛️ |Flutter 
+- **Frameworks & Libraries:** FastAPI 🚀 | React ⚛️ |Flutter|Tensorflow |pytorch|OpenCv|Sckitlearn.
 - **Databases:** MySQL 🗄 | PostgreSQL 🐘  
 - **Other:** Git 🧑‍💻 | Docker 🐳  
 
